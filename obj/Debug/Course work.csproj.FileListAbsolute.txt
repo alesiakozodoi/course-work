@@ -1,0 +1,72 @@
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course work.csproj.AssemblyReference.cache
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Forms.MainForm.resources
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Properties.Resources.resources
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course work.csproj.GenerateResource.cache
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course work.csproj.CoreCompileInputs.cache
+C:\Users\alesi\source\repos\Course work\bin\Debug\Course work.exe.config
+C:\Users\alesi\source\repos\Course work\bin\Debug\Course work.exe
+C:\Users\alesi\source\repos\Course work\bin\Debug\Course work.pdb
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course work.exe
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course work.pdb
+C:\Users\alesi\source\repos\Course work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Forms.EditUniversityForm.resources
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course w.38DB91E6.Up2Date
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Forms.UniversityDetailsForm.resources
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Forms.SpecialtyDetailsForm.resources
+C:\Users\alesi\source\repos\Course work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.barcodes.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.commons.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.forms.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.io.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.kernel.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.layout.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.pdfa.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.pdfua.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.sign.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.styledxmlparser.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.svg.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itextsharp.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Buffers.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Memory.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.ValueTuple.dll
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.barcodes.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.commons.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.forms.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.io.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.kernel.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.layout.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.pdfa.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.pdfua.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.sign.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.styledxmlparser.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itext.svg.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\itextsharp.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Buffers.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Memory.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alesi\source\repos\Course work\bin\Debug\System.ValueTuple.xml
+C:\Users\alesi\source\repos\Course work\obj\Debug\Course_work.Forms.FavoriteSpecialtiesForm.resources

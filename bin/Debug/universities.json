@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "ХНУРЕ",
+    "Location": "Харків",
+    "Rating": 4.3,
+    "Specialties": [
+      {
+        "Name": "121 Інженерія програмного забезпечення",
+        "MinimumCompetition": 122.0,
+        "TuitionFee": 28900.0,
+        "FormsOfStudy": "денна"
+      },
+      {
+        "Name": "122 Комп'ютерні науки",
+        "MinimumCompetition": 120.0,
+        "TuitionFee": 20400.0,
+        "FormsOfStudy": "заочна"
+      }
+    ]
+  },
+  {
+    "Name": "КПІ ім. Сікорського",
+    "Location": "Київ",
+    "Rating": 4.2,
+    "Specialties": [
+      {
+        "Name": "121 Інженерія програмного забезпечення",
+        "MinimumCompetition": 125.0,
+        "TuitionFee": 30000.0,
+        "FormsOfStudy": "денна"
+      },
+      {
+        "Name": "122 Комп'ютерні науки",
+        "MinimumCompetition": 121.0,
+        "TuitionFee": 27400.0,
+        "FormsOfStudy": "вечірня"
+      }
+    ]
+  }
+]

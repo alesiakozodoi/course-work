@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alesi\\source\\repos\\Course work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\universitydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\universitydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\specialtydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\specialtydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|c:\\users\\alesi\\source\\repos\\course work\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\favoritespecialtiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\favoritespecialtiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\edituniversityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\edituniversityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\universitydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\universitydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\favoritespecialtiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\favoritespecialtiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\specialtydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\specialtydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\universitydetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\universitydetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\forms\\edituniversityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:forms\\edituniversityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|C:\\Users\\alesi\\source\\repos\\Course work\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3292FFD1-B35E-4ED6-8404-D0B2826CF792}|Course work.csproj|solutionrelative:models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:37:32.863Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAswKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:55:14.242Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecialtyDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\SpecialtyDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SpecialtyDetailsForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\SpecialtyDetailsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SpecialtyDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:51:59.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoriteSpecialtiesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\FavoriteSpecialtiesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FavoriteSpecialtiesForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\FavoriteSpecialtiesForm.cs [Design]",
+              "RelativeToolTip": "Forms\\FavoriteSpecialtiesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:56:56.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UniversityDetailsForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UniversityDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:50:24.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUniversityForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\EditUniversityForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditUniversityForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\EditUniversityForm.cs [Design]",
+              "RelativeToolTip": "Forms\\EditUniversityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:25:04.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversityDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UniversityDetailsForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.cs",
+              "RelativeToolTip": "Forms\\UniversityDetailsForm.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:50:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecialtyDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\SpecialtyDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SpecialtyDetailsForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\SpecialtyDetailsForm.cs",
+              "RelativeToolTip": "Forms\\SpecialtyDetailsForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:52:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteSpecialtiesForm.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\FavoriteSpecialtiesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\FavoriteSpecialtiesForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\FavoriteSpecialtiesForm.cs",
+              "RelativeToolTip": "Forms\\FavoriteSpecialtiesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:57:33.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UniversityService.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Services\\UniversityService.cs",
+              "RelativeDocumentMoniker": "Services\\UniversityService.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Services\\UniversityService.cs",
+              "RelativeToolTip": "Services\\UniversityService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAmwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:28:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MainForm.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAMkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:55:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniversityDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UniversityDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\UniversityDetailsForm.Designer.cs",
+              "RelativeToolTip": "Forms\\UniversityDetailsForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:58:14.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditUniversityForm.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\EditUniversityForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditUniversityForm.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Forms\\EditUniversityForm.cs",
+              "RelativeToolTip": "Forms\\EditUniversityForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:09:54.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\alesi\\source\\repos\\Course work\\Models\\University.cs",
+              "RelativeDocumentMoniker": "Models\\University.cs",
+              "ToolTip": "C:\\Users\\alesi\\source\\repos\\Course work\\Models\\University.cs",
+              "RelativeToolTip": "Models\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:19:20.506Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
